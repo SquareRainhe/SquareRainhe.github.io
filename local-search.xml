@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>基本的Dos命令.md</title>
+    <title>基本的Dos命令</title>
     <link href="/2022/09/14/%E5%9F%BA%E6%9C%AC%E7%9A%84Dos%E5%91%BD%E4%BB%A4/"/>
     <url>/2022/09/14/%E5%9F%BA%E6%9C%AC%E7%9A%84Dos%E5%91%BD%E4%BB%A4/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h1 id="打开CMD"><a href="#打开CMD" class="headerlink" title="打开CMD"></a>打开CMD</h1><ol><li>开始+系统+命令提示符</li><li>win+R键 输入cmd</li><li>在任意文件夹用shift+鼠标右键打开</li><li>资源管理器的地址栏加上cmd空格</li></ol><h1 id="常用的dos命令"><a href="#常用的dos命令" class="headerlink" title="常用的dos命令"></a>常用的dos命令</h1><pre><code class="bash">#盘符切换D:#查看当前目录下所有文件 dir#切换目录 cd#清理屏幕 cls（clear screen）#退出终端 exit#查看电脑ip ipconfig#打开程序 calc(计算机)   mspaint(画图)    notepad(记事本)#ping命令 ping+地址#创建文件 md创建目录 rd移除目录 cd&gt;创建文件 del移除文件</code></pre>]]></content>
     
     
     
